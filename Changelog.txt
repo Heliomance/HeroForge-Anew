@@ -1,0 +1,5 @@
+HEROFORGE ANEW CHANGELOG
+
+v7.0.0.1
+--------
+Bugfix: Changed calculation of availability of draconic soulmelds to refer to the right source
