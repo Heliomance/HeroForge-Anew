@@ -1,11 +1,25 @@
 HEROFORGE ANEW CHANGELOG
 
-v7.0.0.1
+v7.1.1.0
 --------
-Bugfix: Changed calculation of availability of draconic soulmelds to refer to the right source
+Bugfix: Made Spinemeld Warrior show available soulmelds properly.
+Bugfix: Skarns can now use their spines.
+Bugfix: Soulborns get the right number of smites per day now.
+Bugfix: Soultouched Spellcasting is no longer pretending to be SOulsight if you select it as a bonus feat.
+Bugfix: Elemental Savants can now pick an element.
+Renamed "Race & Stats" sheet to "Stats & Character Details"
+Alphabetised Racial Substitution Level entries.
+Added Magic of Incarnum Racial Substitution Levels
+Added Soul Manifester and psionic soulmelds
 
 v7.1.0.0
 --------
 Made Necrocarnate play nicely with the Soulmelds sheet
 Added Healing Soul feat
 Implemented Incarnum abilities calculation for non-soulmeld essentia receptacles.
+
+v7.0.0.1
+--------
+Bugfix: Changed calculation of availability of draconic soulmelds to refer to the right source
+
+
