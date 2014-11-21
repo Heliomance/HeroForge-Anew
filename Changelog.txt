@@ -1,5 +1,9 @@
 HEROFORGE ANEW CHANGELOG
 
+v7.1.1.2
+--------
+Bugfix: Fixed some cell references in the SoulmeldAbilities sheet.
+
 v7.1.1.1
 --------
 Bugfix: Disenchanter Mask no longer thinks it's a Diadem of Pure Light bound to your Crown chakra.
