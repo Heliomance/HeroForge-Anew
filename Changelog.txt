@@ -1,5 +1,9 @@
 HEROFORGE ANEW CHANGELOG
 
+v7.2.0.1
+--------
+Bugfix: Repaired source references. Oops.
+
 v7.2.0.0
 --------
 Bugfix: Size modifiers now properly apply to grapple checks.
