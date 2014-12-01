@@ -1,5 +1,15 @@
 HEROFORGE ANEW CHANGELOG
 
+v7.2.0.0
+--------
+Bugfix: Size modifiers now properly apply to grapple checks.
+Bugfix: The Quick trait now properly affects your base land speed.
+Bugfix: Swim speeds from templates now properly calculated.
+Changed how race selection works, to enable races with brackets to not break the sheet.
+Added MM1 Devils as races.
+Implemented Fiendish Codex II.
+Note: Only Devil stats are implemented. Racial abilities are not.
+
 v7.1.1.2
 --------
 Bugfix: Fixed some cell references in the SoulmeldAbilities sheet.
