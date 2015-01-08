@@ -1,5 +1,29 @@
 HEROFORGE ANEW CHANGELOG
 
+v7.3.0.0
+--------
+Reverted race selection method.
+Bugfix: Made enhancement bonuses affect damage on weapons other than 1st.
+Bugfix: Evereskan Tomb Guardians now properly have Knowledge (Western Heartlands) as a class skill
+Bugfix: Whisper gnomes now have their proper allotment of spell-like abilities.
+Bugfix: Lycanthropes can now actually use Control Shape
+Bugfix: Elemental Scions have their graft numbers calculated properly now.
+Bugfix: Skill tricks now require Complete Scoundrel to be selected for all classes
+Bugfix: Tattooed Monk's monkey tattoo now properly provides a competence bonus.
+Bugfix: Holy Strike now only replaces Ki Strike (magic), not the whole ability.
+Bugfix: Paladins, Rangers, and other similar classes have no caster level below level 4.
+Bugfix: Initiate of Pistis Sophia 10 now properly turns you into an Outsider.
+Bugfix: Conditional formatting on Feats tab repaired.
+Bugfix: Various multiple selection feats now display properly.
+Bugfix: Gestalt skill points properly calculated.
+Assorted minor quality of life and housekeeping changes.
+Added starting ages for Incarnate, Soulborn, and Totemist.
+Major: Added prestige classes from the Player's Guide to Faerun appendix.
+Changed some behind-the-scenes code relating to lycanthropy and monstrous HD.
+Vampires now have undead immunities and vampire weaknesses.
+Improved recognition of smite abilities for prereqs.
+Assorted corrections to BoED classes.
+
 v7.2.0.1
 --------
 Bugfix: Repaired source references. Oops.
