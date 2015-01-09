@@ -2,7 +2,7 @@ HEROFORGE ANEW CHANGELOG
 
 v7.3.0.1
 --------
-Bugfix: Repaired broken Player's Guide to Faerun source selection.
+Bugfix: Repaired broken source selection checkboxes.
 
 v7.3.0.0
 --------
