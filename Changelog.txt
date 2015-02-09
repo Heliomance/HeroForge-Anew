@@ -1,5 +1,9 @@
 HEROFORGE ANEW CHANGELOG
 
+v7.3.1.2
+--------
+Bugfix: Lycanthrope skills work properly now.
+
 v7.3.1.1
 --------
 Bugfix: Feats tab was breaking something. Now it isn't.
