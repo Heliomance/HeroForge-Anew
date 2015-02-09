@@ -1,4 +1,15 @@
 HEROFORGE ANEW CHANGELOG
+v7.3.1.0
+--------
+Bugfix: Feats tab now properly resets with the rest of the sheet again.
+Bugfix: You can now be a dragonblooded meldshaper without horribly breaking things.
+Bugfix: Martial Study (White Raven) now properly grants Diplomacy as a class skill.
+Bugfix: Custom familiars work again.
+Added online prestige classes - Dwarven Chanter, Halfling Whistler, Swiftblade
+Added Zceryll vestige
+Added Mindsight feat
+Added Pseudonatural template
+Cleaned up and fixed several vestige abilities
 
 v7.3.0.1
 --------
