@@ -1,4 +1,9 @@
 HEROFORGE ANEW CHANGELOG
+
+v7.3.1.1
+--------
+Bugfix: Feats tab was breaking something. Now it isn't.
+
 v7.3.1.0
 --------
 Bugfix: Feats tab now properly resets with the rest of the sheet again.
