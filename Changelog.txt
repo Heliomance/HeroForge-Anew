@@ -1,5 +1,18 @@
 HEROFORGE ANEW CHANGELOG
 
+v7.3.2.0
+--------
+Bugfix: The Great Intelligence feat now only give 1 Int instead of 3
+Bugfix: Epic level Monk unarmed strike damage no longer breaks things.
+Bugfix: Fist of the Forest unarmed strike damage corrected.
+Bugfix: Ordained Champion now properly gives access to the War domain.
+Added assorted missing Epic skill synergies
+Familiar damage calculations have been overhauled
+Wild Shape is now a thing that you can do. It may be buggy due to incomplete animal stats. Expect future releases to gradually add more things you can turn into.
+Animal Companions have been implemented. Note: They don't calculate racial skill bonuses. Enter them manually.
+Mind's Eye Psion variants implemented (with thanks to torrasque666) 
+Removed Faiths and Pantheons Dweomerkeeper, replaced it with Complete Divine Dweomerkeeper.
+
 v7.3.1.2
 --------
 Bugfix: Lycanthrope skills work properly now.
