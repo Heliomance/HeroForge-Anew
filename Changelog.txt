@@ -1,5 +1,10 @@
 HEROFORGE ANEW CHANGELOG
 
+v7.3.2.1
+--------
+Added Valarian to the available deities
+Mind's Eye Psion variants actually implemented. Because I broke it.
+
 v7.3.2.0
 --------
 Bugfix: The Great Intelligence feat now only give 1 Int instead of 3
