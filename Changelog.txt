@@ -1,5 +1,9 @@
 HEROFORGE ANEW CHANGELOG
 
+v7.3.2.4
+--------
+Bugfix: Fixed some problems with Mind's Eye Psion variants.
+
 v7.3.2.3
 --------
 Bugfix: You can now select Eberron Campaign Setting again. My bad.
