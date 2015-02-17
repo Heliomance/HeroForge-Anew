@@ -1,5 +1,9 @@
 HEROFORGE ANEW CHANGELOG
 
+v7.3.2.2
+--------
+Bugfix: Repaired broken race selection dropdown and character summary on Stats & Character Details tab.
+
 v7.3.2.1
 --------
 Added Valarian to the available deities
