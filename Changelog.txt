@@ -1,5 +1,9 @@
 HEROFORGE ANEW CHANGELOG
 
+v7.3.2.3
+--------
+Bugfix: You can now select Eberron Campaign Setting again. My bad.
+
 v7.3.2.2
 --------
 Bugfix: Repaired broken race selection dropdown and character summary on Stats & Character Details tab.
