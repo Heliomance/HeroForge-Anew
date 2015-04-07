@@ -1,6 +1,8 @@
 # HeroForge Anew Change Log
 All notable changes to the project will be documented in this file.
 
+NB: THE CURRENT MOST RECENT VERSION IS AN UNSTABLE DEVELOPMENT COPY. NOT RECOMMENDED FOR USE.
+
 From version 7.4.0.0 onwards, the following versioning convention applies:
 
 Given a version number MAJOR.SOURCE.MINOR.BUGFIX, increment the:
