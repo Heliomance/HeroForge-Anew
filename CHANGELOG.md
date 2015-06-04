@@ -1,8 +1,6 @@
 # HeroForge Anew Change Log
 All notable changes to the project will be documented in this file.
 
-NB: THE CURRENT MOST RECENT VERSION IS AN UNSTABLE DEVELOPMENT COPY. NOT RECOMMENDED FOR USE.
-
 From version 7.4.0.0 onwards, the following versioning convention applies:
 
 Given a version number MAJOR.SOURCE.MINOR.BUGFIX, increment the:
@@ -23,6 +21,16 @@ Prior to version 7.4.0.0, the difference between SOURCE and MINOR, and between M
 - Cleaned up some obsolete cell references.
 - Diamond Dragon no longer breaks everything forever.
 - The Template Information form now gives accurate information.
+- Favoured Enemies work properly again.
+- Buffs which grant temporary HP will no longer grant their HP unless the buff is active.
+- Unwildshaping will now clear all natural attacks you had selected, rather than spewing errors everywhere.
+- Point Blank Shot now properly grants the damage bonus within 30ft.
+- Dweomerkeeper no longer grants bonus feats, can now select 5 mantles.
+- Increased width of Character Sheet II ability display by 4 pixels to help fix word wrap issues.
+- Templates that modify speed don't break horribly anymore.
+- Templates that modify alignment don't break horribly anymore.
+- Renegade Mastermakers now get their DR.
+- Sand Shapers now only require you to be a 5th level arcane caster, not to be able to cast 5th level spells.
 
 ### Added
 - Oriental Adventures. Note: Feats are taken from the sourcebook, not the 3.5 update.
@@ -30,6 +38,9 @@ Prior to version 7.4.0.0, the difference between SOURCE and MINOR, and between M
 ### Changed
 - Modified Changelog to use Markdown format
 - Changed version compatibility verification code
+
+### Deprecated
+- Living Greyhawk support is deprecated and will be removed at some point in the future.
 
 ## [7.3.2.4]
 ### Bugfix
@@ -53,7 +64,7 @@ Prior to version 7.4.0.0, the difference between SOURCE and MINOR, and between M
 
 ## [7.3.2.0]
 ### Bugfixes
-- The Great Intelligence feat now only give 1 Int instead of 3
+- The Great Intelligence feat now only gives 1 Int instead of 3
 - Epic level Monk unarmed strike damage no longer breaks things.
 - Fist of the Forest unarmed strike damage corrected.
 - Ordained Champion now properly gives access to the War domain.
