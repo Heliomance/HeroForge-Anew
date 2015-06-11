@@ -12,7 +12,11 @@ Given a version number MAJOR.SOURCE.MINOR.BUGFIX, increment the:
 
 Prior to version 7.4.0.0, the difference between SOURCE and MINOR, and between MINOR and BUGFIX updates, was highly subjective.
 
-## [7.4.0.0]
+## [7.4.0.1] - 2015-06-11
+### Bugfix
+- Prestige classes with the prerequisite of "Human" now require the Human *subtype*, not the Human *race*, as per Races of Destiny p150.
+
+## [7.4.0.0] - 2015-06-04
 ### Bugfixes
 - Tashalatora now properly contributes to Flurry of Blows.
 - Monk bonus feats work again.
@@ -170,7 +174,7 @@ Prior to version 7.4.0.0, the difference between SOURCE and MINOR, and between M
 - Made Spinemeld Warrior show available soulmelds properly.
 - Skarns can now use their spines.
 - Soulborns get the right number of smites per day now.
-- Soultouched Spellcasting is no longer pretending to be SOulsight if you select it as a bonus feat.
+- Soultouched Spellcasting is no longer pretending to be Soulsight if you select it as a bonus feat.
 - Elemental Savants can now pick an element.
 
 ### Added
