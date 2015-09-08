@@ -12,6 +12,18 @@ Given a version number MAJOR.SOURCE.MINOR.BUGFIX, increment the:
 
 Prior to version 7.4.0.0, the difference between SOURCE and MINOR, and between MINOR and BUGFIX updates, was highly subjective.
 
+## [8.0.0.0] - UNRELEASED
+### Bugfix
+- Familiar carry weights have been fixed
+
+### Changes
+- Major overhaul of the sheet. 
+- Data tables have been moved to separate sheets where possible, for modularity and change control purposes.
+- Format changed from .XLS to .XLSM.
+
+### Removed
+- Living Greyhawk prestige classes
+
 ## [7.4.0.1] - 2015-06-11
 ### Bugfix
 - Prestige classes with the prerequisite of "Human" now require the Human *subtype*, not the Human *race*, as per Races of Destiny p150.
