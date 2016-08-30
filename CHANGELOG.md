@@ -23,6 +23,7 @@ Prior to version 7.4.0.0, the difference between SOURCE and MINOR, and between M
 
 ### Removed
 - Living Greyhawk prestige classes
+- Savage Species monster class functionality has been temporarily removed due to changes in how races are stored. This functionality should return in a later update.
 
 ## [7.4.0.1] - 2015-06-11
 ### Bugfix
