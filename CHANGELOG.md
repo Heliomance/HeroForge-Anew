@@ -15,6 +15,7 @@ Prior to version 7.4.0.0, the difference between SOURCE and MINOR, and between M
 ## [8.0.0.0] - UNRELEASED
 ### Bugfix
 - Familiar carry weights have been fixed
+- Death Dragon buff no longer linked to Cloak of Chaos
 
 ### Changes
 - Major overhaul of the sheet. 
