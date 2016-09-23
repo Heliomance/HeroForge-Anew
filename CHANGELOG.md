@@ -16,6 +16,7 @@ Prior to version 7.4.0.0, the difference between SOURCE and MINOR, and between M
 ### Bugfix
 - Familiar carry weights have been fixed
 - Death Dragon buff no longer linked to Cloak of Chaos
+- Dragonborn of Bahamut now keeps your original Type, instead of setting it to Humanoid
 
 ### Changes
 - Major overhaul of the sheet. 
