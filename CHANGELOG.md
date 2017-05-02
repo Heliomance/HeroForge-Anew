@@ -12,11 +12,22 @@ Given a version number MAJOR.SOURCE.MINOR.BUGFIX, increment the:
 
 Prior to version 7.4.0.0, the difference between SOURCE and MINOR, and between MINOR and BUGFIX updates, was highly subjective.
 
-## [8.0.0.0] - UNRELEASED
+## [8.0.0.0.alpha] - 2017-05-02
+### N.B.: THIS IS AN ALPHA RELEASE. NOT ALL PLANNED V8.0 FEATURES HAVE BEEN IMPLEMENTED.
 ### Bugfix
 - Familiar carry weights have been fixed
 - Death Dragon buff no longer linked to Cloak of Chaos
 - Dragonborn of Bahamut now keeps your original Type, instead of setting it to Humanoid
+- Animal companions should now be working properly. Carry weights have been fixed. Skill ranks are not assigned, and must be done manually. Feats are not calculated, and feats other than bonus feats are not tracked.
+- Carry weight formula tweaked - should no longer be adding phantom weight (see [Issue #45](https://github.com/Heliomance/HeroForge-Anew/issues/45))
+- Legend of the Five Rings logo should no longer stick around on the character sheet through resets. Hopefully. (see [Issue #46](https://github.com/Heliomance/HeroForge-Anew/issues/46))
+- Rangers now properly get Endurance as a free feat at level 3 again, without also having to be a second level Dwarven Chanter. (see [Issue #54](https://github.com/Heliomance/HeroForge-Anew/issues/54))
+- Kobold Dwarven Chanters (don't ask) will now receive Kobold Endurance as a bonus feat at Dwarven Chanter 2, not Dwarven Chanter 1.
+- Elf Ranger Racial Substitution Levels should now properly grant Servant of Lolth as an available Favoured Enemy at level 1. (see [Issue #60](https://github.com/Heliomance/HeroForge-Anew/issues/60))
+- Assorted minor template fixes. Ogre Titan will no longer cause cascading errors. (see [Issue 63](https://github.com/Heliomance/HeroForge-Anew/issues/63))
+- The Languages tab now properly resets with the rest of the sheet. (see [Issue #65](https://github.com/Heliomance/HeroForge-Anew/issues/65))
+- The Evolved template no longer stacks geometrically. (see [Issue #76](https://github.com/Heliomance/HeroForge-Anew/issues/76)) More generally, templates that can be selected multiple times will no longer list multiple copies of their SLAs.
+- Natural Bond now affects the level of animal companion you can choose (see [Issue #98](https://github.com/Heliomance/HeroForge-Anew/issues/98)) Companion choice level is now hard capped at character level - if you know of anything that can raise effective Druid level above character level for the purpose of animal companions, please let me know.
 
 ### Changes
 - Major overhaul of the sheet. 
@@ -26,6 +37,10 @@ Prior to version 7.4.0.0, the difference between SOURCE and MINOR, and between M
 ### Removed
 - Living Greyhawk prestige classes
 - Savage Species monster class functionality has been temporarily removed due to changes in how races are stored. This functionality should return in a later update.
+
+### Deprecated
+- The data tables on the RaceInfo and CreatureInfo tabs have been deprecated in favour of the CreatureInfo .csv in the data folder. The tabs will remain until I'm certain that all remaining references to them have been updated.
+- The .hfg save format is being deprecated. It is still the format used by the alpha release. The full release of v8.0 will have support for loading legacy .hfg files, but will only allow saving in a new format (extension TBD)
 
 ## [7.4.0.1] - 2015-06-11
 ### Bugfix

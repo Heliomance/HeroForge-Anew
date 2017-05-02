@@ -436,7 +436,7 @@ Elasmosaurus,,,Huge,Animal,,10,10,,,,,50,3,Bite+14+0+2,,,,,,,,,,,,,,,,26,14,22,2
 "Elemental, Water(Medium)",Medium,,Medium,Elemental,"Water, Extraplanar",4,20,,,,,90,8,2 Slams+6+0+1,Water Mastery (Ex);Drench (Ex);Vortex (Su),,,,,60,,,,,,,,,,16,12,17,4,11,11,,,,,,,Listen;Spot,,,,Aquan,,,3,Neutral,-,,,,,Water mastery;Drench;Vortex;Elemental traits,,,4,,Elemental,Elemental,,,,MM,98,PlH
 "Elemental, Water(Small)",Small,,Small,Elemental,"Water, Extraplanar",2,20,,,,,90,6,2 Slams+6+0+1,Water Mastery (Ex);Drench (Ex);Vortex (Su),,,,,60,,,,,,,,,,14,10,13,4,11,11,,,,,,,Listen;Spot,,,,Aquan,,,1,Neutral,-,,,,,Water mastery;Drench;Vortex;Elemental traits,,5,1,Planar,Elemental,Elemental,,,,MM,98,PlH
 Elephant,,,Huge,Animal,,11,40,,,,,,7,"Gore+14+0+2,Slam+5+0+1,2 Stamps+5+0+0,Trample+14+0+2",,,,,,60,,,,,,,,,,30,10,21,2,13,7,,,,,,,,,,,,,,,,-,,,,,,,,13,,,,,,,MM,272,
-Elven Hound,,,Medium,Magical Beast,,2,50,,,,,,4,Bite;,,,,,normal,,,sleep,,,,,,,,17,17,13,2,12,8,,,,,,,,,,Track;Improved Natural Attack (bite),,,,,Neutral,-,,,,,Scent;Sprint,,,1,,,,,,,RotW,189,
+Elven Hound,,,Medium,Magical Beast,,2,50,,,,,,4,Bite+6+0+2,,,,,normal,,,sleep,,,,,,,,17,17,13,2,12,8,,,,,,,,,,Track;Improved Natural Attack (bite),,,,,Neutral,-,,,,,Scent;Sprint,,,1,,,,,,,RotW,189,
 Flying Snake,,,Small,Magical Beast,,1,20,,20,20,average,,3,Bite;,,,,,normal,,,,,,,,,,,6,17,11,1,12,2,,,,,,,,,,Alertness;Weapon Finesse;,,,,,Neutral,-,,,,,Acid Spit;Improved Grab;Constrict;Scent,,3,,Improved,,,,,,RoF,,PGtF
 "Formian, Worker",,,Small,Magical Beast,,1,40,,,,,,4,Bite;,,,,,,,,"cold,petrification,poison",,"elecricity 10, fire 10, sonic 10",,,,,,13,14,13,6,10,9,,,,,,,,,,Skill Focus(Craft);,,,,,Lawful Neutral,-,,,,,Cure Serious Wounds;Hive mind;Make Whole,,7,,Improved,,,,,,MM,108,
 Fox,,,Small,Animal,,1,40,,,,,,,Bite+5+0+2,,,,,,,,,,,,,,,,11,19,11,,,,,,,,,,,,,,,,,,,-,,,,,,,,,,,,,,,OA,,
@@ -506,8 +506,8 @@ Shocker Lizard,,,Small,Magical Beast,,2,40,,20,,,20,3,Bite;,,,,,normal,,,electri
 Sparrow,,,Fine,Animal,,1,1,,,50,average,,,,,,,,normal,,,,,,,,,,,1,23,10,,,,,,,,,,,,,,,,,,,-,,,,,,,,,,,,,,,OA,,
 Spider Eater,,,Large,Magical Beast,,,,,,,,,,,,,,,normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,,,,,,,,10,,,,,,,MM,234,
 "Spider, Hairy",,,Fine,Vermin,,0.125,20,,10,,,,,Bite;,,,,,,,,poison,,,,,,,,1,14,10,-,10,2,,,,,,,,,,,,,,,Neutral,-,,,,,Poison,,1,,Improved,,,,,,FRCS,79,
-Squid,,,Medium,Animal,,,,,,,,,,,,,,,,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,,,,,,,,1,,,,,,,MM,281,
-"Squid, Giant",,,Huge,Animal,Aquatic,12,,,,,,80,6,"10 Tentacles+3+0+1,Bite+14+0+0",,,,,,,,,,,,,,,,26,17,13,1,12,2,,,,,,,,,,,,,,,,-,,,,,,,,16,,,,,,,MM,281,
+Squid,,,Medium,Animal,Aquatic,3,,,,,,60,3,"Arms+1+0-1,Bite+5+0+0",,,,,,60,,,,,,,,,,14,17,11,1,12,2,,,,,,,,,,,,,,,Neutral,-,,,,,Ink Cloud;Jet,,,1,,,,,,,MM,281,
+"Squid, Giant",,,Huge,Animal,Aquatic,12,,,,,,80,6,"10 Tentacles+3+0+1,Bite+14+0+0",,,,,normal,,,,,,,,,,,26,17,13,1,12,2,,,,,,,,,,,,,,,,-,,,,,,,,16,,,,,,,MM,281,
 Stirge,,,Tiny,Magical Beast,,1,10,,,40,average,,0,Touch;,,,,,normal,,,,,,,,,,,3,19,10,1,12,6,,,,,,,,,,Alertness;Weapon Finesse;,,,,,Neutral,-,,,,,Attach;Blood drain,,5,1,Improved,,,,,,MM,236,
 Tiger,,,Large,Animal,,6,40,,,,,,3,"2 Claws+5+0+1,Bite+6+0+0,Rake+5+0+0",,,,,normal,60,,,,,,,,,,23,15,17,2,12,6,,,,,,,,,,,,,,4,Neutral,-,,,,,,,,7,,,,,,,MM,281,
 Toad,,,Diminutive,Animal,,0.25,5,,,,,,0,;,,,,,normal,,,,,,,,,,,1,12,11,1,14,4,,,,,,,,,,Alertness,,,,0,Neutral,-,,,,,Amphibious,,1,,Normal,,,,,,MM,282,
@@ -523,4 +523,3 @@ Wolf,,,Medium,Animal,,2,50,,,,,,2,Bite+5+0+2,,,,,normal,60,,,,,,,,,,13,15,15,2,1
 Wolverine,,,Medium,Animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,,,,,,,,4,,,,,,,MM,283,
 Worg,,,Medium,Magical Beast,,4,50,,,,,,2,Bite+5+0+2,,,,,,,,,,,,,,,,17,15,15,6,14,10,,,,,,,,,,Alertness;Track;,,,,,Neutral Evil,-,,,,,Trip;Scent,,3,,Improved,,,,,,MM,256,CW
 Custom Familiar,,,,Magical Beast,,0,0,0,0,0,,0,0,,,,,,normal,60,,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,#REF!,,,,,#REF!,-,,,,,#REF!,,1,,,,,,,,CUST`,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
